@@ -1,2 +1,2 @@
 # Working-With-C
-The purpose of this program was to practice using C.
+This was a project for one of my computer science courses, it was for practicing the C programming language.
